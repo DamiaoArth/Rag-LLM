@@ -10,7 +10,8 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [
-    {name = "RAG Team", email = "dev@example.com"}
+    {name = "Arthur Damiao"},
+    {name = "Janio Lima"}
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -149,8 +150,3 @@ exclude = [
     ".mypy_cache",
     ".pytest_cache",
 ]
-
-[project.urls]
-Repository = "https://github.com/your-org/rag-system"
-Issues = "https://github.com/your-org/rag-system/issues"
-Documentation = "https://github.com/your-org/rag-system/blob/main/README.md"
